@@ -1,0 +1,57 @@
+.ele{
+    /* background-color: rgba(0, 0, 0, 0.3); */
+    width: 100%;
+    height:0px;
+    margin-top:none ;
+    border-radius: 15px;
+    float:left;
+    /* background-blend-mode:soft-light; */
+}
+#light .ele{
+    background-color:rgba(0, 0, 0, 0.7);
+}
+nav .elements .el{
+    list-style: none;
+}
+nav img{
+    border-radius: 1000px;
+    width: 60px;
+    float:left;
+    
+    list-style:none;
+    opacity: 1;
+    /* background-blend-mode: lighten; */
+}
+
+
+.elements .el .check{
+    float:right;
+    margin-top: -20px;
+    margin-right:5% ;
+    transition: 0.5s;
+    list-style: none;
+    border: black;
+    border-style: solid;
+    text-align: center;
+    width:150px
+}
+.space{
+    color: color-mix(in srgb, black 50%, white 50%);
+}
+
+
+.styles{
+
+
+    width:80px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: cornsilk;
+}
+
+.btn_style{
+    margin-right: auto;
+    margin-left: auto;
+}
+

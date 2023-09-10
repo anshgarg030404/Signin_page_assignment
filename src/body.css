@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://img.freepik.com/premium-photo/black-metal-background-texture_177821-136.jpg");
+    /* background-position: center; */
+    background-size: cover;
+    height: 100vh;
+    background-size: 100%;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+ }
+ #dark{
+    background-image:none; 
+    height:100vh;
+}
+ #light{
+    background-image: url("https://img.freepik.com/free-photo/abstract-surface-textures-white-concrete-stone-wall_74190-8184.jpg?w=2000");
+    background-size: cover;
+    height: 100vh;
+} 
+.load{
+    display:block;
+    margin: 15% auto;
+    width:15%;
+}
+
